@@ -1,2 +1,2 @@
 # eumsm
-Deposito de infirmação
+Deposito de informação
